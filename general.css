@@ -1,0 +1,12 @@
+.main-color {
+    color: #111B47;
+}
+
+.bg-main-color {
+    background-color:#111B47 ;
+    color: white;
+}
+
+.bg-main-color:hover {
+    color: white;
+}
